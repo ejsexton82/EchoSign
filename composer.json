@@ -1,5 +1,5 @@
 {
-    "name": "dhaval/echosign",
+    "name": "ejsexton82/echosign",
     "type": "library",
     "description": "convert echosign libs in composer based project",
     "license": "MIT",
